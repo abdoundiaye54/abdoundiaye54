@@ -7,12 +7,12 @@ I'm Abdou Ndiaye and I am a Student at The Ohio state University. My major is Co
 
 
 ## Skills and Experrience: C++ / HTML / CSS / Javascript
-* :c: C++
-*
-*
-*
+*✅  C++
+*✅  HTML
+*✅  CSS
+*✅  JavaScript
 
-- 📫 How to reach me: Email:abdou.ndiaye5644@gmail.com 
+- 📫 How to reach me: Email: abdou.ndiaye5644@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdoundiaye54)  
