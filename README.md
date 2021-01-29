@@ -12,7 +12,7 @@ I'm Abdou Ndiaye and I am a Student at The Ohio state University. My major is Co
 -✅  CSS<br>
 -✅  JavaScript<br>
 
-[![Abdoundiaye54 GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoundiaye54)](https://github.com/anuraghazra/github-readme-stats)
+[![Abdoundiaye54 GitHub stats](https://github-readme-stats.vercel.app/api?username=abdoundiaye54)](https://github.com/anuraghazra/github-readme-stats)<br>
 -📫 How to reach me: Email: abdou.ndiaye5644@gmail.com 
 
 
