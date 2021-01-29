@@ -1,11 +1,16 @@
-### Hi there 👋, my name is Abdou Ndiaye
-#### Design and Development
+
 ![Design and Development](https://coverfiles.alphacoders.com/550/55017.png)
+
+# Abdou Ndiaye
 
 I'm Abdou Ndiaye and I am a Student at The Ohio state University. My major is Computer Science and Engineering. I really enjoy learning languages and developing programs that help others. I create websites and apps using C++ and HTML/CSS etc. You can check out my LinkedIn here and my resume here.
 
 
-Skills: C++ / HTML / CSS / Javascript
+## Skills and Experrience: C++ / HTML / CSS / Javascript
+* :C++:C++
+*
+*
+*
 
 - 📫 How to reach me: Email:abdou.ndiaye5644@gmail.com 
 
