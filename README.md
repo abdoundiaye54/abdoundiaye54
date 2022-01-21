@@ -7,7 +7,7 @@ I'm Abdou Ndiaye and I am a Student at The Ohio state University. My major is Co
 
 
 ## Skills and Experience
--✅  C++<br>
+-✅  Java<br>
 -✅  HTML<br>
 -✅  CSS<br>
 -✅  JavaScript<br>
